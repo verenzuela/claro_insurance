@@ -56,7 +56,7 @@ return [
     'states' => 'State',
     'cities' => 'City',
 
-    'create_user' => 'Crear nuevo usuario',
+    'create_user' => 'Create new user',
 
     'email' => 'Email',
     'password' => 'Password',
